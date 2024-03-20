@@ -34,3 +34,11 @@ const dadGets = cookies % kids;
 console.log(`Each kids gets ${eachKidGets}`);
 
 /* JS OBJECTS */
+
+const person = {
+  first: 'Andrew',
+  last: 'Teece',
+  age: 100,
+};
+
+/* JS NULL & UNDEFINED */
