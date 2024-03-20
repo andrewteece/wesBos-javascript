@@ -35,10 +35,24 @@ console.log(`Each kids gets ${eachKidGets}`);
 
 /* JS OBJECTS */
 
-const person = {
+/*const person = {
   first: 'Andrew',
   last: 'Teece',
   age: 100,
-};
+}; */
 
 /* JS NULL & UNDEFINED */
+let cat;
+console.log(cat);
+cat = 'fonzie';
+
+let iAmNotDefined;
+const iAmNull = null;
+
+const teller = {
+  first: 'Raymond',
+  last: 'Teller',
+};
+
+teller.first = 'Teller';
+teller.last = null;
