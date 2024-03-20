@@ -21,7 +21,7 @@ document.body.innerHTML = html; */
 
 /* JS NUMBERS */
 
-const age = 55;
+/*const age = 55;
 const name = `Andrew`;
 
 //const a = 25;
@@ -32,3 +32,5 @@ const kids = 3;
 const eachKidGets = Math.floor(cookies / kids);
 const dadGets = cookies % kids;
 console.log(`Each kids gets ${eachKidGets}`);
+
+/* JS OBJECTS */
