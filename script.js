@@ -1,8 +1,3 @@
-const p = document.querySelector('p')
+const p = document.querySelector('p');
 
-
-
-
-console.
-
-log(p);
+console.log(p);
