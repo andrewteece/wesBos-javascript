@@ -1,4 +1,6 @@
-/*const name = 'Andrew';
+/* JS STRINGS */
+
+/*
 const middle = 'thomas';
 const last = `teece`;
 
@@ -17,5 +19,16 @@ const html = `
 
 document.body.innerHTML = html; */
 
+/* JS NUMBERS */
+
 const age = 55;
 const name = `Andrew`;
+
+//const a = 25;
+//const b = 10;
+
+const cookies = 25;
+const kids = 3;
+const eachKidGets = Math.floor(cookies / kids);
+const dadGets = cookies % kids;
+console.log(`Each kids gets ${eachKidGets}`);
