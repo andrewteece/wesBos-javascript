@@ -42,7 +42,8 @@ console.log(`Each kids gets ${eachKidGets}`);
 }; */
 
 /* JS NULL & UNDEFINED */
-let cat;
+
+/*let cat;
 console.log(cat);
 cat = 'fonzie';
 
@@ -55,4 +56,12 @@ const teller = {
 };
 
 teller.first = 'Teller';
-teller.last = null;
+teller.last = null; */
+
+/* JS BOOLEAN & EQUALITY */
+
+let age = 18;
+const ofAge = age > 19;
+console.log(ofAge);
+
+age = 100;
